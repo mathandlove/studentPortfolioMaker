@@ -44,7 +44,8 @@ export default function ClassPage() {
           learn from each other, and get a little inspired.
         </p>
         <p className="hero-note class-provenance">
-          {meta.generated}. <a href="/">See one portfolio in full →</a>
+          {meta.generated}. <a href="/">See one portfolio in full →</a>{" "}
+          <a href="/vision">Read the vision →</a>
         </p>
       </header>
 

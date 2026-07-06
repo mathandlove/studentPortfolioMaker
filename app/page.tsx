@@ -61,6 +61,14 @@ export default function Home() {
           the arc of the learning rather than assignment-by-assignment scores, ahead of the
           one-on-one conversation.
         </p>
+        <div className="vision-links">
+          <a className="class-link" href="/class">
+            ◇ See how the whole class is thinking →
+          </a>
+          <a className="class-link" href="/vision">
+            ✦ The vision behind this →
+          </a>
+        </div>
       </header>
 
       <Portfolio

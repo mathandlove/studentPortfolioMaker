@@ -39,3 +39,11 @@ transcript.backup.md
 # PDFs (kept local, never pushed to GitHub)
 *.pdf
 *.PDF
+
+# Local working data — raw student media, never pushed to GitHub
+annotated-*/
+anonymized/
+*.MOV
+*.mov
+*.mp4
+*.MP4

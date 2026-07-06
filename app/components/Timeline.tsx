@@ -77,13 +77,13 @@ export function Timeline({ artifacts, kinds }: Props) {
       <ol className="timeline">
         {visible.map((a, i) => {
           const isOpen = open.has(a.slug);
+          const featured = i === 0 && !isOpen;
           return (
             <li
-              className="tl-item"
+              className={`tl-item ${featured ? "featured" : ""} ${isOpen ? "is-open" : ""}`}
               key={a.slug}
               style={{ animationDelay: `${Math.min(i, 12) * 60}ms` }}
             >
-              <span className={`tl-dot dot-${a.kind}`} aria-hidden />
               <div className={`tl-card card-${a.kind}`}>
                 <button
                   className="tl-head"

@@ -1,0 +1,9 @@
+# Local working data — not part of the deployed app.
+# content/ is intentionally NOT ignored: app/lib reads content/*.json at build time.
+annotated-*/
+anonymized/
+*.pdf
+*.PDF
+transcript.md
+transcript.backup.md
+.livewire/
