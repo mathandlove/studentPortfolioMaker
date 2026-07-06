@@ -1,0 +1,778 @@
+{
+  "meta": {
+    "course": "ENLP 3000 — Intelligent Leadership",
+    "unit": "Unit 1",
+    "term": "Fall 2025",
+    "studentCount": 30,
+    "totalArtifacts": 330,
+    "generated": "synthetic cohort — 1 real portfolio (Jordan Miller) + 29 imagined peers"
+  },
+  "threads": [
+    {
+      "id": "fitting-the-mold",
+      "label": "Fitting (or not) the engineering mold",
+      "blurb": "Wrestling with belonging: does valuing people over pure technical skill make you an outsider?",
+      "color": "#8b5cf6",
+      "count": 23,
+      "primaryCount": 7,
+      "pct": 77,
+      "voices": [
+        {
+          "name": "Jordan Miller",
+          "quote": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+          "isReal": true,
+          "id": "jordan-miller"
+        },
+        {
+          "name": "Yuki Cohen",
+          "quote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+          "isReal": false,
+          "id": "yuki-cohen"
+        },
+        {
+          "name": "Elena Delgado",
+          "quote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+          "isReal": false,
+          "id": "elena-delgado"
+        },
+        {
+          "name": "Maya Okafor",
+          "quote": "I spent the whole unit studying leaders and got upstaged by followers.",
+          "isReal": false,
+          "id": "maya-okafor"
+        }
+      ]
+    },
+    {
+      "id": "well-rounded-vs-expert",
+      "label": "Well-roundedness vs. expertise",
+      "blurb": "What actually counts as intelligence — breadth and adaptability, or deep technical mastery?",
+      "color": "#0ea5e9",
+      "count": 20,
+      "primaryCount": 10,
+      "pct": 67,
+      "voices": [
+        {
+          "name": "Jordan Miller",
+          "quote": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+          "isReal": true,
+          "id": "jordan-miller"
+        },
+        {
+          "name": "Yuki Cohen",
+          "quote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+          "isReal": false,
+          "id": "yuki-cohen"
+        },
+        {
+          "name": "Elena Delgado",
+          "quote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+          "isReal": false,
+          "id": "elena-delgado"
+        },
+        {
+          "name": "Maya Okafor",
+          "quote": "I spent the whole unit studying leaders and got upstaged by followers.",
+          "isReal": false,
+          "id": "maya-okafor"
+        }
+      ]
+    },
+    {
+      "id": "followership",
+      "label": "Followership as the engine of teams",
+      "blurb": "Rethinking whether teams rise and fall on leaders — or on how people follow and self-lead.",
+      "color": "#10b981",
+      "count": 17,
+      "primaryCount": 3,
+      "pct": 57,
+      "voices": [
+        {
+          "name": "Jordan Miller",
+          "quote": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+          "isReal": true,
+          "id": "jordan-miller"
+        },
+        {
+          "name": "Yuki Cohen",
+          "quote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+          "isReal": false,
+          "id": "yuki-cohen"
+        },
+        {
+          "name": "Elena Delgado",
+          "quote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+          "isReal": false,
+          "id": "elena-delgado"
+        },
+        {
+          "name": "Maya Okafor",
+          "quote": "I spent the whole unit studying leaders and got upstaged by followers.",
+          "isReal": false,
+          "id": "maya-okafor"
+        }
+      ]
+    },
+    {
+      "id": "toll-of-leadership",
+      "label": "The toll & responsibility of leadership",
+      "blurb": "Leadership always extracts a cost — through empathy, through ownership, or both.",
+      "color": "#f59e0b",
+      "count": 15,
+      "primaryCount": 2,
+      "pct": 50,
+      "voices": [
+        {
+          "name": "Jordan Miller",
+          "quote": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+          "isReal": true,
+          "id": "jordan-miller"
+        },
+        {
+          "name": "Elena Delgado",
+          "quote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+          "isReal": false,
+          "id": "elena-delgado"
+        },
+        {
+          "name": "Mateo Petrova",
+          "quote": "I wanted authority without the ache. This unit told me that's not on the menu.",
+          "isReal": false,
+          "id": "mateo-petrova"
+        },
+        {
+          "name": "Kwame Bennett",
+          "quote": "Depth impressed me for years. This unit, breadth is what kept surprising me.",
+          "isReal": false,
+          "id": "kwame-bennett"
+        }
+      ]
+    },
+    {
+      "id": "adaptability",
+      "label": "Adaptability as the growth edge",
+      "blurb": "Old study habits and instincts no longer meet the demand — change is named but hard to enact.",
+      "color": "#ef4444",
+      "count": 14,
+      "primaryCount": 5,
+      "pct": 47,
+      "voices": [
+        {
+          "name": "Jordan Miller",
+          "quote": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+          "isReal": true,
+          "id": "jordan-miller"
+        },
+        {
+          "name": "Noah Cohen",
+          "quote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+          "isReal": false,
+          "id": "noah-cohen"
+        },
+        {
+          "name": "Kwame Mensah",
+          "quote": "Adaptability isn't a trait I have — it's a bill that comes due every busy week.",
+          "isReal": false,
+          "id": "kwame-mensah"
+        },
+        {
+          "name": "Kwame Ahmed",
+          "quote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+          "isReal": false,
+          "id": "kwame-ahmed"
+        }
+      ]
+    },
+    {
+      "id": "empathy-vs-rationality",
+      "label": "Empathy vs. rational ownership",
+      "blurb": "Holding the pull between reading the room and coldly owning a hard call.",
+      "color": "#ec4899",
+      "count": 10,
+      "primaryCount": 3,
+      "pct": 33,
+      "voices": [
+        {
+          "name": "Noah Cohen",
+          "quote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+          "isReal": false,
+          "id": "noah-cohen"
+        },
+        {
+          "name": "Kwame Mensah",
+          "quote": "Adaptability isn't a trait I have — it's a bill that comes due every busy week.",
+          "isReal": false,
+          "id": "kwame-mensah"
+        },
+        {
+          "name": "Mateo Petrova",
+          "quote": "I wanted authority without the ache. This unit told me that's not on the menu.",
+          "isReal": false,
+          "id": "mateo-petrova"
+        },
+        {
+          "name": "Kwame Ahmed",
+          "quote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+          "isReal": false,
+          "id": "kwame-ahmed"
+        }
+      ]
+    }
+  ],
+  "members": [
+    {
+      "id": "jordan-miller",
+      "name": "Jordan Miller",
+      "isReal": true,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "fitting-the-mold",
+        "toll-of-leadership",
+        "followership",
+        "adaptability"
+      ],
+      "throughLine": "Jordan enters the unit with a well-formed, confident identity: he is a \"well-rounded\" learner who prizes flexibility, emotional intelligence, and human connection over narrow technical mastery. Early on, this belief is largely a source of pride and self-validation — he sees himself as different from (and quietly superior to) engineering peers who \"fit perfectly into\" the mythos of the maverick non-communicator.",
+      "signatureQuote": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+      "interviewedWith": "a parent and a mentor",
+      "goal": "Carry the empathy-vs-expert tension into Unit 2 instead of resolving it too fast.",
+      "thriving": "Turns interviews into genuine inquiry that reshapes his thinking",
+      "watchFor": "His self-portrait of intelligence can tip into self-affirmation, subtly casting peers as less well-rounded",
+      "artifactCount": 12
+    },
+    {
+      "id": "yuki-cohen",
+      "name": "Yuki Cohen",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "fitting-the-mold",
+        "followership"
+      ],
+      "throughLine": "Arrives sure that well-roundedness vs. expertise is settled for them, then a hard week forces fitting (or not) the engineering mold into the open, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+      "interviewedWith": "a team captain",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Connects readings to concrete engineering-leadership stakes",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 8
+    },
+    {
+      "id": "elena-delgado",
+      "name": "Elena Delgado",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "followership",
+        "toll-of-leadership",
+        "well-rounded-vs-expert"
+      ],
+      "throughLine": "Arrives sure that fitting (or not) the engineering mold is settled for them, as followership as the engine of teams quietly becomes the real question, and finally names something they'd been avoiding.",
+      "signatureQuote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+      "interviewedWith": "a high-school teacher",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "Final self-assessment reads more polished than honest",
+      "artifactCount": 13
+    },
+    {
+      "id": "maya-okafor",
+      "name": "Maya Okafor",
+      "isReal": false,
+      "primaryThread": "followership",
+      "threads": [
+        "followership",
+        "well-rounded-vs-expert",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Begins by leaning hard into followership as the engine of teams as their whole identity, then a hard week forces well-roundedness vs. expertise into the open, and closes proud, though the growth edge is still raw.",
+      "signatureQuote": "I spent the whole unit studying leaders and got upstaged by followers.",
+      "interviewedWith": "a startup founder",
+      "goal": "Practice deliberate, self-leading followership on my project team.",
+      "thriving": "Connects readings to concrete engineering-leadership stakes",
+      "watchFor": "An unresolved anxiety they gesture at but don't open",
+      "artifactCount": 10
+    },
+    {
+      "id": "noah-cohen",
+      "name": "Noah Cohen",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "empathy-vs-rationality",
+        "followership",
+        "adaptability"
+      ],
+      "throughLine": "Comes in curious but unformed about well-roundedness vs. expertise, then a hard week forces empathy vs. rational ownership into the open, and ends more honest than certain.",
+      "signatureQuote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+      "interviewedWith": "a professor",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Turns interviews into real inquiry, not just quote-collection",
+      "watchFor": "Final self-assessment reads more polished than honest",
+      "artifactCount": 13
+    },
+    {
+      "id": "kwame-mensah",
+      "name": "Kwame Mensah",
+      "isReal": false,
+      "primaryThread": "adaptability",
+      "threads": [
+        "adaptability",
+        "fitting-the-mold",
+        "empathy-vs-rationality"
+      ],
+      "throughLine": "Opens confident, almost dismissive, about adaptability as the growth edge, then a hard week forces fitting (or not) the engineering mold into the open, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "Adaptability isn't a trait I have — it's a bill that comes due every busy week.",
+      "interviewedWith": "a team captain",
+      "goal": "Change one concrete study habit and track whether it holds.",
+      "thriving": "Connects readings to concrete engineering-leadership stakes",
+      "watchFor": "Final self-assessment reads more polished than honest",
+      "artifactCount": 9
+    },
+    {
+      "id": "mateo-petrova",
+      "name": "Mateo Petrova",
+      "isReal": false,
+      "primaryThread": "toll-of-leadership",
+      "threads": [
+        "toll-of-leadership",
+        "empathy-vs-rationality",
+        "followership",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Enters skeptical that the toll & responsibility of leadership even matters, as empathy vs. rational ownership quietly becomes the real question, and ends more honest than certain.",
+      "signatureQuote": "I wanted authority without the ache. This unit told me that's not on the menu.",
+      "interviewedWith": "a parent",
+      "goal": "Name, out loud, which cost of leadership I'm most avoiding.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 14
+    },
+    {
+      "id": "kwame-volkov",
+      "name": "Kwame Volkov",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "followership"
+      ],
+      "throughLine": "Begins by leaning hard into well-roundedness vs. expertise as their whole identity, then an interview with a team captain cracks it open, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "I used to think the smartest person answered fastest. Now I think they ask the better question.",
+      "interviewedWith": "a team captain",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Turns interviews into real inquiry, not just quote-collection",
+      "watchFor": "Leans on breadth to avoid committing anywhere",
+      "artifactCount": 12
+    },
+    {
+      "id": "kwame-ahmed",
+      "name": "Kwame Ahmed",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "empathy-vs-rationality",
+        "adaptability",
+        "followership"
+      ],
+      "throughLine": "Begins by leaning hard into fitting (or not) the engineering mold as their whole identity, as empathy vs. rational ownership quietly becomes the real question, and turns self-affirmation into genuine inquiry.",
+      "signatureQuote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+      "interviewedWith": "a high-school teacher",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "An unresolved anxiety they gesture at but don't open",
+      "artifactCount": 13
+    },
+    {
+      "id": "diego-patel",
+      "name": "Diego Patel",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "fitting-the-mold",
+        "followership",
+        "adaptability"
+      ],
+      "throughLine": "Arrives sure that well-roundedness vs. expertise is settled for them, before a high-school teacher offers a story that complicates it, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+      "interviewedWith": "a high-school teacher",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Holds unresolved tensions instead of flattening them",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 13
+    },
+    {
+      "id": "kwame-bennett",
+      "name": "Kwame Bennett",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "toll-of-leadership",
+        "adaptability",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Comes in curious but unformed about well-roundedness vs. expertise, before a military officer offers a story that complicates it, and leaves with a sharper question than they came in with.",
+      "signatureQuote": "Depth impressed me for years. This unit, breadth is what kept surprising me.",
+      "interviewedWith": "a military officer",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Holds unresolved tensions instead of flattening them",
+      "watchFor": "Defers so hard the actual view disappears",
+      "artifactCount": 14
+    },
+    {
+      "id": "ada-bennett",
+      "name": "Ada Bennett",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "followership"
+      ],
+      "throughLine": "Enters skeptical that fitting (or not) the engineering mold even matters, before a parent offers a story that complicates it, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "Not fitting the mold stopped feeling like a flaw and started feeling like information.",
+      "interviewedWith": "a parent",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Holds unresolved tensions instead of flattening them",
+      "watchFor": "An unresolved anxiety they gesture at but don't open",
+      "artifactCount": 9
+    },
+    {
+      "id": "fatima-lovelace",
+      "name": "Fatima Lovelace",
+      "isReal": false,
+      "primaryThread": "empathy-vs-rationality",
+      "threads": [
+        "empathy-vs-rationality",
+        "well-rounded-vs-expert"
+      ],
+      "throughLine": "Comes in curious but unformed about empathy vs. rational ownership, until a group conversation reframes it around well-roundedness vs. expertise, and finally names something they'd been avoiding.",
+      "signatureQuote": "Reading the room and making the cold call are pulling my hands in two directions.",
+      "interviewedWith": "a former coach",
+      "goal": "Own one hard call fully — no deferring to be liked.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "Defers so hard the actual view disappears",
+      "artifactCount": 8
+    },
+    {
+      "id": "maya-osei",
+      "name": "Maya Osei",
+      "isReal": false,
+      "primaryThread": "adaptability",
+      "threads": [
+        "adaptability",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Enters skeptical that adaptability as the growth edge even matters, but the readings keep snagging on fitting (or not) the engineering mold, and turns self-affirmation into genuine inquiry.",
+      "signatureQuote": "I can name exactly what I need to change. Doing it is the part with no shortcut.",
+      "interviewedWith": "a co-op supervisor",
+      "goal": "Change one concrete study habit and track whether it holds.",
+      "thriving": "Genuinely lets a belief get overturned mid-unit",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 9
+    },
+    {
+      "id": "caleb-haddad",
+      "name": "Caleb Haddad",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "fitting-the-mold",
+        "followership"
+      ],
+      "throughLine": "Opens confident, almost dismissive, about well-roundedness vs. expertise, before a mentor at work offers a story that complicates it, and finally names something they'd been avoiding.",
+      "signatureQuote": "I used to think the smartest person answered fastest. Now I think they ask the better question.",
+      "interviewedWith": "a mentor at work",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Writes to think, not just to submit",
+      "watchFor": "Leans on breadth to avoid committing anywhere",
+      "artifactCount": 12
+    },
+    {
+      "id": "owen-nguyen",
+      "name": "Owen Nguyen",
+      "isReal": false,
+      "primaryThread": "adaptability",
+      "threads": [
+        "adaptability",
+        "followership",
+        "toll-of-leadership",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Opens confident, almost dismissive, about adaptability as the growth edge, but the readings keep snagging on followership as the engine of teams, and finally names something they'd been avoiding.",
+      "signatureQuote": "I can name exactly what I need to change. Doing it is the part with no shortcut.",
+      "interviewedWith": "a grandparent",
+      "goal": "Change one concrete study habit and track whether it holds.",
+      "thriving": "Turns interviews into real inquiry, not just quote-collection",
+      "watchFor": "Defers so hard the actual view disappears",
+      "artifactCount": 12
+    },
+    {
+      "id": "maya-larsen",
+      "name": "Maya Larsen",
+      "isReal": false,
+      "primaryThread": "adaptability",
+      "threads": [
+        "adaptability",
+        "well-rounded-vs-expert",
+        "toll-of-leadership",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Comes in curious but unformed about adaptability as the growth edge, then a hard week forces well-roundedness vs. expertise into the open, and closes proud, though the growth edge is still raw.",
+      "signatureQuote": "Adaptability isn't a trait I have — it's a bill that comes due every busy week.",
+      "interviewedWith": "a startup founder",
+      "goal": "Change one concrete study habit and track whether it holds.",
+      "thriving": "Genuinely lets a belief get overturned mid-unit",
+      "watchFor": "Self-portrait can tip into self-affirmation",
+      "artifactCount": 13
+    },
+    {
+      "id": "ivan-volkov",
+      "name": "Ivan Volkov",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "followership",
+        "toll-of-leadership",
+        "empathy-vs-rationality"
+      ],
+      "throughLine": "Arrives sure that well-roundedness vs. expertise is settled for them, as followership as the engine of teams quietly becomes the real question, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "I used to think the smartest person answered fastest. Now I think they ask the better question.",
+      "interviewedWith": "a grandparent",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Turns interviews into real inquiry, not just quote-collection",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 11
+    },
+    {
+      "id": "kwame-silva",
+      "name": "Kwame Silva",
+      "isReal": false,
+      "primaryThread": "empathy-vs-rationality",
+      "threads": [
+        "empathy-vs-rationality",
+        "well-rounded-vs-expert",
+        "toll-of-leadership"
+      ],
+      "throughLine": "Opens confident, almost dismissive, about empathy vs. rational ownership, but the readings keep snagging on well-roundedness vs. expertise, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "Reading the room and making the cold call are pulling my hands in two directions.",
+      "interviewedWith": "a military officer",
+      "goal": "Own one hard call fully — no deferring to be liked.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 9
+    },
+    {
+      "id": "maya-reyes",
+      "name": "Maya Reyes",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "toll-of-leadership",
+        "empathy-vs-rationality"
+      ],
+      "throughLine": "Enters skeptical that well-roundedness vs. expertise even matters, before a mentor at work offers a story that complicates it, and closes proud, though the growth edge is still raw.",
+      "signatureQuote": "Knowing everything about one thing has started to feel lonelier than knowing a little about people.",
+      "interviewedWith": "a mentor at work",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "Self-portrait can tip into self-affirmation",
+      "artifactCount": 8
+    },
+    {
+      "id": "maya-cohen",
+      "name": "Maya Cohen",
+      "isReal": false,
+      "primaryThread": "well-rounded-vs-expert",
+      "threads": [
+        "well-rounded-vs-expert",
+        "adaptability",
+        "followership"
+      ],
+      "throughLine": "Arrives sure that well-roundedness vs. expertise is settled for them, then an interview with a military officer cracks it open, and closes proud, though the growth edge is still raw.",
+      "signatureQuote": "Depth impressed me for years. This unit, breadth is what kept surprising me.",
+      "interviewedWith": "a military officer",
+      "goal": "Find one place to go genuinely deep without losing the breadth I value.",
+      "thriving": "Genuinely lets a belief get overturned mid-unit",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 11
+    },
+    {
+      "id": "hassan-bennett",
+      "name": "Hassan Bennett",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "adaptability"
+      ],
+      "throughLine": "Opens confident, almost dismissive, about fitting (or not) the engineering mold, before a high-school teacher offers a story that complicates it, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "I dim the part of me that needs people so I read as competent. That trade is expensive.",
+      "interviewedWith": "a high-school teacher",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Turns interviews into real inquiry, not just quote-collection",
+      "watchFor": "Defers so hard the actual view disappears",
+      "artifactCount": 11
+    },
+    {
+      "id": "omar-ahmed",
+      "name": "Omar Ahmed",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "toll-of-leadership",
+        "adaptability",
+        "empathy-vs-rationality"
+      ],
+      "throughLine": "Opens confident, almost dismissive, about fitting (or not) the engineering mold, as the toll & responsibility of leadership quietly becomes the real question, and lands on holding the tension rather than resolving it.",
+      "signatureQuote": "I dim the part of me that needs people so I read as competent. That trade is expensive.",
+      "interviewedWith": "a high-school teacher",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Writes to think, not just to submit",
+      "watchFor": "Self-portrait can tip into self-affirmation",
+      "artifactCount": 14
+    },
+    {
+      "id": "priya-petrova",
+      "name": "Priya Petrova",
+      "isReal": false,
+      "primaryThread": "followership",
+      "threads": [
+        "followership",
+        "fitting-the-mold",
+        "well-rounded-vs-expert"
+      ],
+      "throughLine": "Comes in curious but unformed about followership as the engine of teams, then a hard week forces fitting (or not) the engineering mold into the open, and closes proud, though the growth edge is still raw.",
+      "signatureQuote": "Following well is a decision, not a default. That reframed the whole team for me.",
+      "interviewedWith": "a startup founder",
+      "goal": "Practice deliberate, self-leading followership on my project team.",
+      "thriving": "Genuinely lets a belief get overturned mid-unit",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 11
+    },
+    {
+      "id": "sofia-wright",
+      "name": "Sofia Wright",
+      "isReal": false,
+      "primaryThread": "adaptability",
+      "threads": [
+        "adaptability",
+        "fitting-the-mold",
+        "toll-of-leadership",
+        "well-rounded-vs-expert"
+      ],
+      "throughLine": "Comes in curious but unformed about adaptability as the growth edge, then an interview with a grandparent cracks it open, and ends more honest than certain.",
+      "signatureQuote": "I can name exactly what I need to change. Doing it is the part with no shortcut.",
+      "interviewedWith": "a grandparent",
+      "goal": "Change one concrete study habit and track whether it holds.",
+      "thriving": "Writes to think, not just to submit",
+      "watchFor": "Final self-assessment reads more polished than honest",
+      "artifactCount": 8
+    },
+    {
+      "id": "caleb-gallagher",
+      "name": "Caleb Gallagher",
+      "isReal": false,
+      "primaryThread": "followership",
+      "threads": [
+        "followership",
+        "fitting-the-mold",
+        "well-rounded-vs-expert"
+      ],
+      "throughLine": "Arrives sure that followership as the engine of teams is settled for them, then a hard week forces fitting (or not) the engineering mold into the open, and leaves with a sharper question than they came in with.",
+      "signatureQuote": "Following well is a decision, not a default. That reframed the whole team for me.",
+      "interviewedWith": "a startup founder",
+      "goal": "Practice deliberate, self-leading followership on my project team.",
+      "thriving": "Genuinely lets a belief get overturned mid-unit",
+      "watchFor": "Insight named but concrete follow-through still thin",
+      "artifactCount": 8
+    },
+    {
+      "id": "owen-farah",
+      "name": "Owen Farah",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "adaptability",
+        "toll-of-leadership"
+      ],
+      "throughLine": "Comes in curious but unformed about fitting (or not) the engineering mold, then a hard week forces adaptability as the growth edge into the open, and leaves with a sharper question than they came in with.",
+      "signatureQuote": "I keep waiting to feel like a 'real' engineer. Maybe the waiting is the tell.",
+      "interviewedWith": "a professor",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Holds unresolved tensions instead of flattening them",
+      "watchFor": "Defers so hard the actual view disappears",
+      "artifactCount": 10
+    },
+    {
+      "id": "sofia-farah",
+      "name": "Sofia Farah",
+      "isReal": false,
+      "primaryThread": "empathy-vs-rationality",
+      "threads": [
+        "empathy-vs-rationality",
+        "toll-of-leadership",
+        "well-rounded-vs-expert",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Begins by leaning hard into empathy vs. rational ownership as their whole identity, then an interview with a professor cracks it open, and ends more honest than certain.",
+      "signatureQuote": "Reading the room and making the cold call are pulling my hands in two directions.",
+      "interviewedWith": "a professor",
+      "goal": "Own one hard call fully — no deferring to be liked.",
+      "thriving": "Strong, consistent metacognition across the logs",
+      "watchFor": "Leans on breadth to avoid committing anywhere",
+      "artifactCount": 14
+    },
+    {
+      "id": "tariq-lovelace",
+      "name": "Tariq Lovelace",
+      "isReal": false,
+      "primaryThread": "fitting-the-mold",
+      "threads": [
+        "fitting-the-mold",
+        "well-rounded-vs-expert",
+        "followership",
+        "toll-of-leadership"
+      ],
+      "throughLine": "Enters skeptical that fitting (or not) the engineering mold even matters, until a group conversation reframes it around well-roundedness vs. expertise, and leaves with a sharper question than they came in with.",
+      "signatureQuote": "I keep waiting to feel like a 'real' engineer. Maybe the waiting is the tell.",
+      "interviewedWith": "a nurse",
+      "goal": "Stop dimming the relational side of how I work and test what happens.",
+      "thriving": "Writes to think, not just to submit",
+      "watchFor": "Self-portrait can tip into self-affirmation",
+      "artifactCount": 12
+    },
+    {
+      "id": "hassan-ali",
+      "name": "Hassan Ali",
+      "isReal": false,
+      "primaryThread": "toll-of-leadership",
+      "threads": [
+        "toll-of-leadership",
+        "fitting-the-mold"
+      ],
+      "throughLine": "Enters skeptical that the toll & responsibility of leadership even matters, but the readings keep snagging on fitting (or not) the engineering mold, and ends more honest than certain.",
+      "signatureQuote": "Owning the call and feeling the cost turned out to be the same muscle.",
+      "interviewedWith": "a grandparent",
+      "goal": "Name, out loud, which cost of leadership I'm most avoiding.",
+      "thriving": "Turns interviews into real inquiry, not just quote-collection",
+      "watchFor": "Final self-assessment reads more polished than honest",
+      "artifactCount": 9
+    }
+  ],
+  "teacherSignals": {
+    "clustering": "23 of 30 students are pulling on “Fitting (or not) the engineering mold.” It's the gravitational center of the unit — worth a whole-class conversation, and worth asking whether the prompts are steering everyone there.",
+    "thin": "Only 10 students engaged “Empathy vs. rational ownership” meaningfully. If the syllabus treats it as central, that's a gap between what was assigned and what actually landed.",
+    "alignment": "Across the cohort, the interviews consistently did more to shift beliefs than the readings did. If the unit's stated goal is engaging the assigned texts, the real learning may be happening in the conversations — a possible misalignment worth naming."
+  }
+}

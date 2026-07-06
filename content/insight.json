@@ -1,0 +1,141 @@
+{
+  "heroQuote": {
+    "text": "The smartest people are not the experts who know every little thing about one topic; they are the people whose brains are like sponges, constantly learning and growing from every lesson life throws at them.",
+    "source": "Autoethnographic Reflection"
+  },
+  "throughLine": "Jordan enters the unit with a well-formed, confident identity: he is a \"well-rounded\" learner who prizes flexibility, emotional intelligence, and human connection over narrow technical mastery. Early on, this belief is largely a source of pride and self-validation — he sees himself as different from (and quietly superior to) engineering peers who \"fit perfectly into\" the mythos of the maverick non-communicator. But across the unit the work deepens from self-affirmation into genuine inquiry. The Gardner log shows him wrestling with whether his cherished \"flexible intelligence\" is even a real category. The interviews with his mother and father push his ideas about empathy and street smarts into concrete, morally complex territory, and the followership interview genuinely overturns a prior belief — he arrives thinking teams rise and fall on the leader, and leaves convinced followership is \"at the heart of team success.\" The intellectual peak is the Ender/Bean synthesis on the toll of leadership, where he holds a real tension — empathy vs. rational ownership, agency vs. responsibility — rather than resolving it neatly. By the final self-assessment, though, two things sit in tension: a very polished, uniformly celebratory self-appraisal (straight A's, \"so proud\") alongside a genuinely vulnerable admission that he was inexplicably nervous presenting and wants help understanding why. The arc, then, is from confident self-portrait toward authentic self-questioning — with the self-assessment being the one place the questioning briefly goes quiet.",
+  "themes": [
+    {
+      "title": "Intelligence as well-roundedness, not expertise",
+      "summary": "Jordan consistently defines intelligence as adaptability, emotional connection, and the humility to keep learning — explicitly rejecting technical mastery or academic performance as the true measure.",
+      "evidence": [
+        {
+          "quote": "it is far more important to be well-rounded with a little bit of technical intelligence and a little bit of social intelligence than it is to have incredibly high technical intelligence while lacking the social",
+          "source": "Autoethnographic Reflection"
+        },
+        {
+          "quote": "academic performance is a better measure of effort than intelligence",
+          "source": "Origins Memo"
+        }
+      ]
+    },
+    {
+      "title": "Not fitting the engineering mold",
+      "summary": "A recurring tension: Jordan sees himself as an outsider to the engineering archetype because he needs others and craves communication, framing this both as a source of not belonging and of pride.",
+      "evidence": [
+        {
+          "quote": "during my time studying engineering, I have never felt like I quite \"fit in with the rest of my classmates.\"",
+          "source": "Captain's Log (August 25)"
+        },
+        {
+          "quote": "Human relationships are so, so important to me; however, this sentiment has not been shared among my peers.",
+          "source": "Captain's Log (August 25)"
+        }
+      ]
+    },
+    {
+      "title": "The toll and responsibility of leadership",
+      "summary": "Through Ender and Bean, Jordan develops a genuinely nuanced idea that leadership always extracts a cost, whether through empathy or rational ownership, and that leaders must claim responsibility even when systems manipulate them.",
+      "evidence": [
+        {
+          "quote": "Leadership always extracts a toll. The question is not whether we pay it, but how: with anguish born of empathy, with rational ownership, or—ideally—with both.",
+          "source": "Captain's Log (September 26)"
+        },
+        {
+          "quote": "To deny responsibility is to deny leadership itself.",
+          "source": "Captain's Log (September 26)"
+        }
+      ]
+    },
+    {
+      "title": "Leadership and followership as intertwined",
+      "summary": "Jordan's interview with his mentor genuinely reshaped his belief that teams depend most on leaders; he now sees self-leading followership as the engine of team success.",
+      "evidence": [
+        {
+          "quote": "Ultimately, good followership is at the heart of team success. This was a new perspective for me.",
+          "source": "Followership Memo"
+        },
+        {
+          "quote": "there are times when it is better to elevate the team leader rather than myself to ensure team success.",
+          "source": "Captain's Log (September 10)"
+        }
+      ]
+    },
+    {
+      "title": "Adaptability as the growth edge",
+      "summary": "Jordan repeatedly names adaptability and creativity as the areas he most needs to develop, tying it to real pressures of a harder, busier season of life.",
+      "evidence": [
+        {
+          "quote": "My traditional study habits and my traditional feelings towards deadlines are no longer sufficient to meet the demands of my environment.",
+          "source": "Captain's Log (September 08)"
+        },
+        {
+          "quote": "If there is one area I need to work on, it is definitely my creative intelligence.",
+          "source": "Autoethnographic Reflection"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question": "You describe yourself as valuing empathy and human connection above technical mastery — but you also say you exemplify the 'expert and macho' facets. Where do you feel that pull between how you want to lead and how you were trained to think as an engineer?",
+      "rationale": "His August 25 log surfaces a real tension he names but doesn't resolve, and it recurs across the unit."
+    },
+    {
+      "question": "In your synthesis you landed on the idea that leadership always extracts a toll — paid in either empathy or moral distance. Which of those costs do you think you're more prone to paying, and why?",
+      "rationale": "His Sept 24–26 logs show sophisticated thinking he frames abstractly; making it personal tests whether he applies it to himself."
+    },
+    {
+      "question": "Your followership interview genuinely changed your mind about what makes teams succeed. What did it feel like to have a belief you held strongly get overturned in a 40-minute conversation?",
+      "rationale": "The Followership Memo explicitly marks a shift in prior conviction — a chance to explore how he metabolizes challenge to his views."
+    },
+    {
+      "question": "You gave yourself A's across the board and said you're 'so proud,' but you also admitted you were surprised by how nervous you felt presenting and can't yet explain why. What do you make of that gap?",
+      "rationale": "The self-assessment pairs uniformly celebratory framing with a rare, unresolved vulnerability worth opening gently."
+    },
+    {
+      "question": "You named adaptability as your 'game-changer' competency and admitted your old study habits no longer meet the demand. What's one habit you've actually tried to change this semester, and how did it go?",
+      "rationale": "Sept 8 log shows self-awareness about a struggle, but he stops short of concrete evidence of change — worth checking whether insight became action."
+    },
+    {
+      "question": "You wondered whether your idea of 'flexible intelligence' is a category Gardner missed or 'a new level of thinking entirely.' Where has that question gone since you raised it?",
+      "rationale": "The Sept 5 log shows him pushing back on an authoritative framework with his own theory — a live intellectual thread worth cultivating."
+    }
+  ],
+  "thriving": [
+    {
+      "point": "Turns interviews into genuine inquiry that reshapes his thinking",
+      "evidence": "After interviewing his mentor he writes that good followership being 'at the heart of team success' was 'a new perspective for me' that 'totally changes how I think about constructing strong teams.'"
+    },
+    {
+      "point": "Capable of holding sophisticated, unresolved tensions rather than flattening them",
+      "evidence": "His Ender/Bean synthesis frames leadership as 'a tension between agency and responsibility' and asks 'If leadership always extracts a toll... what does that mean for us as future leaders?'"
+    },
+    {
+      "point": "Strong metacognition and reflective discipline",
+      "evidence": "He consistently 'stay[s] after class to ensure all of my ideas are in my log' and reflects on his own note-taking, presentation structure, and follower behavior at the swing dance club."
+    },
+    {
+      "point": "Connects text to real engineering-leadership stakes",
+      "evidence": "His group tied their values conversation to 'how aerospace engineering and the defense industry challenged our personal beliefs and values,' linking Ender's military responsibility to real ethical weight."
+    }
+  ],
+  "watchFors": [
+    {
+      "point": "His self-portrait of intelligence can tip into self-affirmation, subtly casting peers as less well-rounded",
+      "evidence": "He notes 'there is a huge disparity in social intelligence in the engineering classes' and that peers who value ease as proof of intelligence hold a view that 'feels very unproductive.'"
+    },
+    {
+      "point": "The final self-assessment is uniformly celebratory, leaving little room for growth edges he names elsewhere",
+      "evidence": "Straight A's with 'I am so proud of my work' and 'I have been very successful!' — while other logs candidly admit struggles with adaptability and reading consistency."
+    },
+    {
+      "point": "Unresolved presentation anxiety he wants help naming",
+      "evidence": "'As an individual with lots of public speaking experience, I was surprised by how nervous I felt... I have not yet identified exactly what caused my nervousness.'"
+    },
+    {
+      "point": "Insight about needing to change habits hasn't yet shown concrete follow-through",
+      "evidence": "He recognizes 'a change needs to be made, yet the change is difficult to implement,' but the portfolio offers little evidence of a specific habit successfully changed."
+    }
+  ]
+}

@@ -35,3 +35,7 @@ transcript.md
 transcript.backup.md
 
 .livewire/
+
+# PDFs (kept local, never pushed to GitHub)
+*.pdf
+*.PDF

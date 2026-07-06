@@ -1,0 +1,7 @@
+# Captain's Log (August 27)
+
+ENLP 3000-001
+
+Jordan Miller
+
+Today's conversation was very interesting and revealing about my peers. We discussed what we wrote in our first Personal Autoethnographic Reflection, dissecting what it means to be intelligent. I thought it was cool to listen to my classmates' opinions on what they felt intelligence meant. Contrary to my approach, it was clear that my peers considered academic performance to be the main measurement of personal intelligence. They all talked about how growing up, it was ingrained in their heads that they were "smart" or "gifted" students because they didn't have to try in school. This was interesting to me and actually raises several internal concerns about the message we are conveying to our youth. I was also told that I was a "gifted" and "smart" student in school; however, this did not mean that I didn't have to try. I only achieved my "gifted" status because of my hard work. My peers noted that when they came to the university, they felt shocked when they struggled and failed for the first time. This perception that things have to be easy for us to be smart actually feels very unproductive. I can appreciate the similarities in our upbringing; however, I hope that we can all understand that we are all incredibly intelligent individuals, and that struggle is not an indication of lack of intelligence. It is our differences and our persistence in struggle that make us intelligent individuals.
