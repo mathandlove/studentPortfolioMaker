@@ -33,3 +33,5 @@ next-env.d.ts
 # planning transcripts (kept local)
 transcript.md
 transcript.backup.md
+
+.livewire/
